@@ -1,0 +1,23 @@
+{
+  "name": "intarmour/module-backend-reindex",
+  "description": "Magento 2 Backend Reindex Extension",
+  "type": "magento2-module",
+  "version": "3.0.1",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Intarmour",
+      "email": "support@intarmour.com",
+      "homepage": "https://www.intarmour.com",
+      "role": "Technical Support"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Intarmour\\BackendReindex\\": ""
+    }
+  }
+}

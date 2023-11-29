@@ -1,0 +1,7 @@
+"Please select indexers.","Selezionare gli indici."
+"Total of %1 index(es) have reindexed data.","Un totale di %1 indici hanno dati reindicizzati."
+"Cannot initialize the indexer process.","Impossibile inizializzare il processo dell'indicizzatore."
+"%1 index was rebuilt.","L'indice %1 è stato ricostruito."
+"There was a problem with reindexing process.","Si è verificato un problema nel processo di reindicizzazione."
+"Reindex Data","Reindicizzare i dati"
+Action,Azione
