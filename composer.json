@@ -2,7 +2,7 @@
   "name": "intarmour/module-backend-reindex",
   "description": "Magento 2 Backend Reindex Extension",
   "type": "magento2-module",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "license": "proprietary",
   "authors": [
     {

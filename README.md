@@ -1,6 +1,8 @@
 <a href="http://www.intarmour.com" title="Magento Extension"><img src="https://intarmour.com/wp-content/uploads/2023/03/logo-white-intarmour.png" width="100" align="right" alt="Magento2 plugins" /></a>
 
 # Reindex Magento 2 / Adobe Commerce from Admin
+[![Latest Stable Version](https://poser.okvpn.org/intarmour/module-backend-reindex/v/stable)](https://packagist.org/packages/intarmour/module-backend-reindex)
+[![Total Downloads](https://poser.okvpn.org/intarmour/module-backend-reindex/downloads)](https://packagist.org/packages/intarmour/module-backend-reindex)
 
 
 ##### For Magento 2.4.x
